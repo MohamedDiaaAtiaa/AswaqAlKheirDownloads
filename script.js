@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const links = {
         customer: {
             pc: 'https://expo.dev/artifacts/eas/vCtK6YsvmGaXHccYTVxws8.apk',
-            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-new/builds/eff0e4e9-66c9-48be-bfb0-9411911168ab'
+            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-new/builds/8ef2b635-39f8-4c6e-b6e2-4cdb764f4353'
         },
         admin: {
             pc: 'https://expo.dev/artifacts/eas/wansi62MjsRzCgB5ksq1ZX.apk',
-            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-admin-new/builds/d33c4ee9-82f5-4e81-9f66-6f9f14bc6b29'
+            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-admin-new/builds/21e2b18f-7cbd-487e-a8a0-1150270137a3'
         }
     };
 
