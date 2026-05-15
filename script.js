@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         admin: {
             pc: 'https://expo.dev/artifacts/eas/wansi62MjsRzCgB5ksq1ZX.apk',
-            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-admin-new/builds/21e2b18f-7cbd-487e-a8a0-1150270137a3'
+            mobile: 'https://expo.dev/accounts/arandommelon/projects/aswaq-alkheir-admin-new/builds/ab83899f-c188-48e3-98ee-706334b53a8d'
         }
     };
 
